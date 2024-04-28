@@ -4,7 +4,7 @@ In this project, we focus on the comprehensive analysis of a dataset related to 
 ## 🪟 Overview
 The objective of this analysis is to obtain relevant information about the success factors of the main YouTube channels and understand what differentiates them from the rest.
 
-* 👉 To access the code: [world_atlas_scraper.py]()
+* 👉 To access the code: [world_atlas_scraper.py](https://github.com/IrisMejuto/Global-YouTube-Statistics/blob/main/Notebook/Youtube%20Channels.ipynb)
 
 ## 📊 Dataset
 

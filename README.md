@@ -9,7 +9,7 @@ The objective of this analysis is to obtain relevant information about the succe
 ## 📊 Dataset
 
 * [Kaggle Link](https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023)
-* [CSV File]()
+* [CSV File](https://github.com/IrisMejuto/Global-YouTube-Statistics/blob/main/Dataset/Global%20YouTube%20Statistics.csv)
 
 
 ## ⚒️ Tools and Libraries
